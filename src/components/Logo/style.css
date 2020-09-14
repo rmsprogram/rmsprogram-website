@@ -1,0 +1,14 @@
+.logo{
+    text-align: center;
+}
+
+.logo a{
+    /* font-family: 'Dancing Script', cursive; */
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    color: teal;
+    text-decoration: teal;
+    text-align: center;
+    vertical-align: center;
+}
