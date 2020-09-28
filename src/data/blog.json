@@ -1,0 +1,31 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "blogCategory":"Featured",
+            "blogTitle": "One",
+            "postedOn" : "September 13, 2020",
+            "author" : "Aatmi Mehta",
+            "blogImage" : "gs7-DrHirenPatel.png",
+            "blogText" : "Dr. Hiren Patel, MD, MCHM Dr. Hiren patel is a doctor and also has a MCHM from Harvard University. He completed his residency at NYU Brooklyn. He currently works to manage hospitals all across the US.      Thank you so much for speaking to us Dr. Patel! It was so incredible to hear about your inspiring journey and your exciting career! ​Recording Unavailable"
+        },
+        {
+            "id": 2,
+            "blogCategory":"Important",
+            "blogTitle": "Two",
+            "postedOn" : "September 13, 2020",
+            "author" : "Saivishnu Tulugu",
+            "blogImage" : "SpEvent2-BTO.png",
+            "blogText" : "BTOB or Break the Outbreak, is a 501(c)3 nonprofit organization that works to supply masks within communities across the nation! Hear about their plans and amazing work! To join this booming organization, find out more at breaktheoutbreak.org"
+        },
+        {
+            "id": 3,
+            "blogCategory":"Update",
+            "blogTitle": "Three",
+            "postedOn" : "September 13, 2020",
+            "author" : "Aatmi Mehta",
+            "blogImage" : "SpEvent1-COPEOrg.png",
+            "blogText" : "COPE, or Community Outbreak Preparedness Education, is a nonprofit organization that works to prepare vulnerable communities to prepare for natural and disasters and disseminate public health information. To hear about their plans, amazing work, and to find out more, check out: copeorg.wixsite.com/cope"
+        }
+    ]
+}
